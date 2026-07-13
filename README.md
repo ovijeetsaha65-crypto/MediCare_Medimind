@@ -63,3 +63,4 @@ In `index.php`, find this line and replace with your chatbot URL:
 - Dosage form & strength
 - Price per tablet (TK)
 - Manufacturer
+- testing purpose ( git init )
